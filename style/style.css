@@ -1,0 +1,47 @@
+.search-bar {
+  margin: 15px;
+  text-align: center;
+}
+
+.search-bar input {
+  display: block;
+  width: 66%;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #55595c;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: .25rem;
+}
+
+.list-group-item:hover {
+  cursor: pointer;
+  background-color: #eee;
+}
+
+.media-object {
+  border-radius: .25rem;
+  max-width: 90px;
+}
+
+.media-heading {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.details {
+  margin: 15px;
+}
+
+.mt-0 {
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+
+.video-detail {
+  font-weight: 300;
+}
